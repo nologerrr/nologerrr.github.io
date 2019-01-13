@@ -1470,7 +1470,9 @@ em.search-keyword {
   max-height: 128px;
   max-width: 128px;
   margin-bottom: 5px;
-  overflow: hidden; }
+  overflow: hidden;
+  float: right;
+  clear: right; }
 
 .img.img-topic {
   display: block;
@@ -1478,6 +1480,4 @@ em.search-keyword {
   max-width: 128px;
   margin-left: .7em;
   margin-right: .7em;
-  padding: 0;
-  float: right;
-  clear: right; }
+  padding: 0; }
