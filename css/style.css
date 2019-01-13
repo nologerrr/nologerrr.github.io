@@ -1474,6 +1474,8 @@ em.search-keyword {
 
 .img.img-topic {
   display: block;
+  max-height: 128px;
+  max-width: 128px;
   margin-left: .7em;
   margin-right: .7em;
   padding: 0;
