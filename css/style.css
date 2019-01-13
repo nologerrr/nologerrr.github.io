@@ -1465,12 +1465,16 @@ em.search-keyword {
   .post-copyright li {
     margin: 8px 0; }
 
-.img-topic {
-  max-width: 100px;
-  max-height: 100px;
+.out-img-topic {
+  display: block;
+  max-height: 300px;
+  margin-bottom: 24px;
+  overflow: hidden; }
+
+img.img-topic {
   display: block;
   margin-left: .7em;
   margin-right: .7em;
   padding: 0;
-  float: left;
-  clear: left; }
+  float: right;
+  clear: right; }
