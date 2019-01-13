@@ -1464,3 +1464,13 @@ em.search-keyword {
   list-style: none; }
   .post-copyright li {
     margin: 8px 0; }
+
+.img-topic {
+  max-width: 300px;
+  max-height: 1800px;
+  display: block;
+  margin-left: .7em;
+  margin-right: .7em;
+  padding: 0;
+  float: right;
+  clear: right; }
