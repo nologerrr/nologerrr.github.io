@@ -1468,8 +1468,8 @@ em.search-keyword {
 .out-img-topic {
   display: block;
   max-height: 128px;
-  max-width: 128px;
-  margin-bottom: 24px;
+  width: 128px;
+  margin-bottom: 10px;
   overflow: hidden; }
 
 .img.img-topic {
@@ -1478,4 +1478,4 @@ em.search-keyword {
   margin-right: .7em;
   padding: 0;
   float: right;
-  clear: l; }
+  clear: right; }
