@@ -1466,11 +1466,11 @@ em.search-keyword {
     margin: 8px 0; }
 
 .img-topic {
-  max-width: 300px;
-  max-height: 1800px;
+  max-width: 100px;
+  max-height: 100px;
   display: block;
   margin-left: .7em;
   margin-right: .7em;
   padding: 0;
-  float: right;
-  clear: right; }
+  float: left;
+  clear: left; }
