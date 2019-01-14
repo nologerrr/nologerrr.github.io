@@ -1481,3 +1481,13 @@ em.search-keyword {
   margin-left: .7em;
   margin-right: .7em;
   padding: 0; }
+
+img.img-logo {
+  max-width: 180px;
+  max-height: 96px;
+  display: block;
+  margin-right: .7em;
+  margin-left: .7em;
+  padding: 0;
+  float: left;
+  clear: left; }
