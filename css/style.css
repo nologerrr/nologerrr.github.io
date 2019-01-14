@@ -1469,14 +1469,13 @@ em.search-keyword {
   display: block;
   max-height: 128px;
   max-width: 128px;
-  margin-bottom: 5px;
+  margin-bottom: 0px;
   overflow: hidden;
   float: right;
   clear: right; }
 
 .img.img-topic {
-  max-width: 180px;
-  max-height: 96px;
+  max-width: 128px;
   display: block;
   margin-right: .7em;
   margin-left: .7em;
