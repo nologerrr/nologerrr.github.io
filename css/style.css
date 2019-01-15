@@ -1465,7 +1465,7 @@ em.search-keyword {
   .post-copyright li {
     margin: 8px 0; }
 
-.out-img-topic {
+img1.out-img-topic {
   display: block;
   max-height: 128px;
   max-width: 128px;
@@ -1474,7 +1474,7 @@ em.search-keyword {
   float: right;
   clear: right; }
 
-.out-img-topic.img-topic {
+img1.img-topic {
   max-width: 100%;
   max-height: 100%;
   display: block;
