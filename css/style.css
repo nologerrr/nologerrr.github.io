@@ -1469,7 +1469,7 @@ em.search-keyword {
   display: block;
   height: 128px;
   width: 128px;
-  margin-bottom: 0px;
+  margin-top: 20px;
   overflow: hidden;
   float: right;
   clear: right; }
